@@ -1,2 +1,0 @@
-# AngularDemo
-Basic Angular Projedct
